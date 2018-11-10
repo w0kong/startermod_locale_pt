@@ -8831,103 +8831,103 @@
 				"combat": {
 					"values": {
 						"panicked": {
-							"display_name": "Feared for my life",
-							"tooltip": "I'm not proud of how I acted when the monsters came, but it's all I could think to do."
+							"display_name": "Medo de monstros",
+							"tooltip": "Eu não tenho orgulho de como agi quando os monstros vieram, mas é tudo que eu poderia pensar em fazer."
 						}
 					}
 				},
 				"traits": {
 					"values": {
 						"misses_pet": {
-							"display_name": "Misses Companion",
-							"tooltip": "Although it's been awhile since they died, I still catch myself sometimes looking for my pet, [str(pet_name)]."
+							"display_name": "Meu bixinho",
+							"tooltip": "Apesar de já ter tempo desde que morreu, eu ainda me pego às vezes procurando meu animal de estimação, [str(pet_name)]."
 						},
 						"plant_lover": {
-							"display_name": "Plant Lover",
-							"tooltip": "Every time I interact with plants I feel a bit calmer."
+							"display_name": "Amante de plantas",
+							"tooltip": "Toda vez que eu interajo com as plantas me sinto muito feliz."
 						},
 						"fruitful_labors": {
-							"display_name": "Fruitful Labors",
-							"tooltip": "It always feels good to make something with one's own hands. It helps clear my mind."
+							"display_name": "Colher frutos",
+							"tooltip": "É sempre bom fazer algo com as próprias mãos. Isso ajuda a limpar minha mente."
 						},
 						"idle_hands": {
-							"display_name": "Idle Hands",
-							"tooltip": "I've not made anything in awhile and feel like a layabout. Isn't there something I can craft?"
+							"display_name": "Mãos Vazias",
+							"tooltip": "Eu não estou fazendo nada e me sinto como um vagabundo. Não há algo que eu possa criar?"
 						},
 						"protected_the_town": {
-							"display_name": "Protected the Town",
-							"tooltip": "We fended off a group of nasties recently, it really got my blood pumping!"
+							"display_name": "Cidade protegida",
+							"tooltip": "Nós rechaçamos um grupo de invasores recentemente, isso realmente fez meu sangue bombear!"
 						},
 						"loves_their_job": {
-							"display_name": "Loves Their Job",
-							"tooltip": "This is the perfect job for me! I love what I do day to day."
+							"display_name": "Amo meu trabalho",
+							"tooltip": "Este é o trabalho perfeito para mim! Eu amo o que faço dia a dia."
 						},
 						"inspired": {
-							"display_name": "Inspired",
-							"tooltip": "[str(target_name)] is in quite good spirits today. They're really pleasant to be around!"
+							"display_name": "Inspirado",
+							"tooltip": "[str(target_name)] está em muito bom humor hoje. Eles são muito sortudos de estar por perto!"
 						},
 						"discouraged": {
-							"display_name": "Discouraged",
-							"tooltip": "Sheesh, [str(target_name)] is no fun when they're in a bad mood."
+							"display_name": "Desencorajado",
+							"tooltip": "Nossa, [str(target_name)] não sabe brincar quando esta de mau humor."
 						},
 						"deeper_understanding": {
-							"display_name": "A deeper understanding",
-							"tooltip": "[str(target_name)] really has his priorities straight."
+							"display_name": "Um entendimento mais profundo",
+							"tooltip": "[str(target_name)] realmente tem suas prioridades em linha reta."
 						},
 						"pluviophile": {
-							"display_name": "I love rain!",
-							"tooltip": "It's my favorite weather today!"
+							"display_name": "Eu amo chuva!",
+							"tooltip": "É o meu tempo favorito!"
 						},
 						"storm_chaser": {
-							"display_name": "It's storming!",
-							"tooltip": "It's my favorite weather today!"
+							"display_name": "Linda tempestade!",
+							"tooltip": "É o meu tempo favorito!"
 						}
 					},
 					"gregarious": {
 						"values": {
 							"lonely": {
-								"display_name": "Lonely",
-								"tooltip": "It's been awhile since I've talked to anyone. I really need to get some stuff off my chest."
+								"display_name": "Solitário",
+								"tooltip": "Já faz algum tempo que eu não falo com ninguém. Eu realmente preciso tirar algumas coisas do meu peito."
 							},
 							"enjoys_company": {
-								"display_name": "Enjoys the company of others",
-								"tooltip": "It's always great to spend some time with my fellow town members."
+								"display_name": "Gosta da companhia dos outros",
+								"tooltip": "É sempre bom passar algum tempo com meus colegas da cidade."
 							}
 						}
 					},
 					"loner": {
 						"values": {
 							"annoyed_with_others": {
-								"display_name": "Annoyed with others",
-								"tooltip": "Why do these people keep talking to me? It keeps distracting me from what's important."
+								"display_name": "Irritado com os outros",
+								"tooltip": "Por que essas pessoas continuam falando comigo? Isso me distrai do que é importante."
 							},
 							"alone_with_thoughts": {
-								"display_name": "Alone with my own thoughts",
-								"tooltip": "Being away from others has given me the time to reflect and clear my mind."
+								"display_name": "Sozinho com meus próprios pensamentos",
+								"tooltip": "Estar longe dos outros me deu tempo para refletir e limpar minha mente."
 							}
 						}
 					},
 					"empathetic": {
 						"values": {
 							"everyone_worse_off": {
-								"display_name": "Everyone seems worse off",
-								"tooltip": "Seeing everyone else in worse spirits just brings me down."
+								"display_name": "Todo mundo triste",
+								"tooltip": "Ver todos tristes apenas me derrubam."
 							},
 							"everyone_happier": {
-								"display_name": "Everyone seems happier",
-								"tooltip": "Everyone else seems to be in a better mood than me. Maybe I should look at things differently."
+								"display_name": "Todo mundo feliz",
+								"tooltip": "Todo mundo parece estar de melhor humor que eu. Talvez eu deva olhar as coisas de maneira diferente."
 							}
 						}
 					},
 					"goat": {
 						"values": {
 							"ate_not_bad_food": {
-								"display_name": "Mmm, not bad",
-								"tooltip": "My [str(foodname)] today was a little tasty, but didn't seem that different from what I normally eat."
+								"display_name": "Hm.. Nada mal",
+								"tooltip": "Meu [str(foodname)] hoje foi um pouco gostoso, mas não parecia tão diferente do que eu costumo comer."
 							},
 							"ate_some_food": {
-								"display_name": "Ate some food",
-								"tooltip": "I had some [str(foodname)] today. It was alright, but I don't see what the big deal is."
+								"display_name": "Comeu um pouco de comida",
+								"tooltip": "Eu tive alguns [str(foodname)] hoje. Tudo bem, mas não vejo qual é o grande problema."
 							}
 						}
 					}
@@ -8935,55 +8935,55 @@
 				"violence": {
 					"values": {
 						"townmember_died": {
-							"display_name": "A townmember has died",
-							"tooltip": "A fellow townmember has died. If only we had been more watchful!"
+							"display_name": "Um colega da cidade morreu",
+							"tooltip": "Um colega da cidade morreu. Se ao menos estivéssemos mais vigilantes!"
 						},
 						"pet_died": {
 							"display_name": "Meu animal de estimação morreu",
 							"tooltip": "Meu pobre [str(pet_name)] faleceu recentemente. Vou sentir bastante falta dele."
 						},
 						"saved_from_mortal_wounds": {
-							"display_name": "Saved from mortal wounds",
-							"tooltip": "I would have died back there were it not for those around me! I'm grateful for this second chance."
+							"display_name": "Curado",
+							"tooltip": "Eu teria morrido se não fosse por aqueles ao meu redor! Eu sou grato por esta segunda chance."
 						}
 					}
 				},
 				"job": {
 					"values": {
 						"gained_a_level": {
-							"display_name": "Improved my skills",
-							"tooltip": "I've been at this job long enough to gain a new insight! I can feel myself becoming better at my work."
+							"display_name": "Melhorei minhas habilidades",
+							"tooltip": "Eu estive nesse trabalho o tempo suficiente para ganhar uma experiência! Eu estou feliz no meu trabalho."
 						}
 					}
 				},
 				"social": {
 					"values": {
 						"unpleasant_talk": {
-							"display_name": "Had an unpleasant talk",
-							"tooltip": "I can't believe [str(target_name)] said that!"
+							"display_name": "Tive uma conversa desagradável",
+							"tooltip": "Eu não posso acreditar que [str(target_name)] disse isso!"
 						},
 						"great_talk": {
-							"display_name": "Had a great talk",
-							"tooltip": "Talking with [str(target_name)] today was really nice."
+							"display_name": "Tive uma ótima conversa",
+							"tooltip": "Conversei com [str(target_name)] hoje e foi muito legal!"
 						},
 						"great_joke": {
-							"display_name": "Heard a great joke",
-							"tooltip": "Hahaha, just thinking of the joke [str(target_name)] told makes me crack up!"
+							"display_name": "Ouvi uma ótima piada",
+							"tooltip": "Kkkkkk, só de pensar na piada que [str(target_name)] disse, me faz rir!"
 						},
 						"tough_crowd": {
-							"display_name": "Tough crowd",
-							"tooltip": "[str(target_name)] didn't laugh at my joke. Was it really that bad?"
+							"display_name": "Piada fraca",
+							"tooltip": "[str(target_name)] não riu da minha piada. Foi realmente tão ruim assim?"
 						}
 					},
 					"animal": {
 						"values": {
 							"nuzzled": {
 								"display_name": "Nuzzled",
-								"tooltip": "Awww, my pet [str(target_name)] always manages to cheer me up."
+								"tooltip": "Awwwn, meu querido bixinho [str(target_name)] sempre consegue me animar."
 							},
 							"booped": {
-								"display_name": "Booped",
-								"tooltip": "A cute [str(species)] booped me today. It made me feel warm and fuzzy inside."
+								"display_name": "Cutucado",
+								"tooltip": "Foto, [str(species)] me cutucou hoje. Isso me fez sentir quente e confuso por dentro."
 							}
 						}
 					}
@@ -8991,211 +8991,211 @@
 				"appeal": {
 					"thresholds": {
 						"horrendous": {
-							"display_name": "Horrid Aesthetics",
-							"tooltip": "Everywhere I look I see something terrible!"
+							"display_name": "Estética Errada",
+							"tooltip": "Onde quer que eu olhe vejo algo errado!"
 						},
 						"beautiful": {
-							"display_name": "Beautiful Aesthetics",
-							"tooltip": "The decor around here is really great. A lot of hard work must have gone into making it look this nice."
+							"display_name": "Estética Bonita",
+							"tooltip": "A decoração por aqui é realmente ótima. Muito trabalho duro deve ter sido feito para que pareça tão legal."
 						},
 						"neutral": {
-							"display_name": "Neutral Aesthetics"
+							"display_name": "Estética Neutra"
 						},
 						"ugly": {
-							"display_name": "Ugly Aesthetics",
-							"tooltip": "Sheesh, it's really ugly around here. We definitely can make this look better!"
+							"display_name": "Estética Feia",
+							"tooltip": "Nossa, é muito feio por aqui. Nós definitivamente podemos fazer isso parecer melhor!"
 						},
 						"awe_inspiring": {
-							"display_name": "Awe-Inspiring Aesthetics",
-							"tooltip": "This place... it's... beautiful..."
+							"display_name": "Estética inspiradora",
+							"tooltip": "Este lugar é... lindo ..."
 						},
 						"pleasing": {
-							"display_name": "Pleasing Aesthetics",
-							"tooltip": "It's pretty nice looking around here."
+							"display_name": "Estética Agradável",
+							"tooltip": "É bem legal dar uma ficar aqui"
 						},
 						"breathtaking": {
-							"display_name": "Breath-Taking Aesthetics",
-							"tooltip": "Wow, everywhere I look is gorgeous! The attention to detail is amazing!"
+							"display_name": "Estética de surreal",
+							"tooltip": "Uau, todo lugar que eu olho é lindo! A atenção aos detalhes é incrível!"
 						}
 					}
 				},
 				"appeal_crafting": {
 					"values": {
 						"breathtaking": {
-							"display_name": "Breath-Taking Workshop",
-							"tooltip": "I love crafting in my workshop; it's so well decorated!"
+							"display_name": "Oficina perfeita",
+							"tooltip": "Adoro construir na minha oficina; está tão bem decorada!"
 						},
 						"pleasing": {
-							"display_name": "Pleasant Workshop",
-							"tooltip": "A well-maintained work space brightens my mood."
+							"display_name": "Oficina Agradável",
+							"tooltip": "Um espaço de trabalho bem decorado, ilumina meu humor."
 						},
 						"beautiful": {
-							"display_name": "Beautiful Workshop",
-							"tooltip": "The area around my workbench is looking good, everything is in its place."
+							"display_name": "Oficina Organizada",
+							"tooltip": "A área ao redor da minha bancada está boa, tudo está em seu lugar. 
 						},
 						"ugly": {
-							"display_name": "Unkempt Workshop",
-							"tooltip": "It's frustrating that my work space is so grungy."
+							"display_name": "Oficina Suja",
+							"tooltip": "É frustrante que o meu espaço de trabalho seja tão sujo."
 						},
 						"awe_inspiring": {
-							"display_name": "Awe-Inspiring Workshop",
-							"tooltip": "My workshop looks so amazing! It's an inspiration!"
+							"display_name": "Oficina Inspiradora",
+							"tooltip": "Minha oficina parece tão incrível! É uma inspiração!"
 						}
 					}
 				},
 				"appeal_bedroom": {
 					"values": {
 						"pleasing": {
-							"display_name": "Pleasant Bedroom",
-							"tooltip": "Where I slept last night was pretty nice."
+							"display_name": "Quarto Agradável",
+							"tooltip": "Onde eu dormi na noite passada foi bem legal."
 						},
 						"beautiful": {
-							"display_name": "Beautiful Bedroom",
-							"tooltip": "My bedroom is really shaping up; I like it!"
+							"display_name": "Quarto Bonito",
+							"tooltip": "Meu quarto está realmente melhorando; Eu gosto disso!"
 						},
 						"breathtaking": {
-							"display_name": "Breath-Taking Bedroom",
-							"tooltip": "I love sleeping in such a wonderful bedroom!"
+							"display_name": "Quarto Maravilhoso",
+							"tooltip": "Eu adoro dormir em um quarto tão maravilhoso!"
 						},
 						"awe_inspiring": {
-							"display_name": "Awe-Inspiring Bedroom",
-							"tooltip": "When I went to bed last night, I felt like royalty."
+							"display_name": "Quarto Luxuoso",
+							"tooltip": "Quando fui dormir ontem à noite, me senti como a realeza."
 						}
 					}
 				},
 				"appeal_dining": {
 					"values": {
 						"beautiful": {
-							"display_name": "Beautiful Dining",
-							"tooltip": "I was happy to eat in such an attractive spot!"
+							"display_name": "Cozinha Linda",
+							"tooltip": "Eu estava feliz por comer em um local tão atraente!"
 						},
 						"breathtaking": {
-							"display_name": "Breath-Taking Dining",
-							"tooltip": "Someone really spent some effort decorating our dining room!"
+							"display_name": "Refeições Maravilhosas",
+							"tooltip": "Alguém realmente se esforçou decorando nossa sala de jantar!"
 						},
 						"awe_inspiring": {
-							"display_name": "Awe-Inspiring Dining",
-							"tooltip": "The decor was so great, dinner was a feast for both my eyes and my stomach!"
+							"display_name": "Cozinha Luxuosa",
+							"tooltip": "A decoração foi tão grande, o jantar foi uma festa para os meus olhos e meu estômago!"
 						},
 						"pleasing": {
-							"display_name": "Pleasant Dining",
-							"tooltip": "It was nice to eat my meal in a comfortable space."
+							"display_name": "Cozinha Confortável",
+							"tooltip": "Foi bom para comer minha refeição em um espaço confortável."
 						},
 						"ugly": {
-							"display_name": "Dreary Dining",
-							"tooltip": "The ugly surroundings made it difficult to enjoy my last meal."
+							"display_name": "Cozinha Suja",
+							"tooltip": "O ambiente sujo dificultava a minha última refeição."
 						}
 					}
 				},
 				"weather": {
 					"values": {
 						"windy_positive": {
-							"display_name": "Enjoying the breeze",
-							"tooltip": "The breeze is caressing my skin."
+							"display_name": "Apreciando a brisa",
+							"tooltip": "A brisa está acariciando minha pele."
 						},
 						"blizzard_negative": {
-							"display_name": "Hail knocking at my door",
-							"tooltip": "Oh, the weather outside is frightful!"
+							"display_name": "Granizo batendo na minha porta",
+							"tooltip": "Oh, o tempo lá fora é assustador!"
 						},
 						"thunderstorm_negative": {
-							"display_name": "Scary thunder and lightning",
-							"tooltip": "That lightning bolt almost hit me!"
+							"display_name": "Raio assustador e relâmpago",
+							"tooltip": "Aquele raio quase me atingiu!"
 						},
 						"sunny_positive": {
-							"display_name": "Sunny weather",
-							"tooltip": "Endless sunshine, warmth, and blue skies."
+							"display_name": "Tempo ensolarado",
+							"tooltip": "Sol sem fim, calor e céu azul."
 						},
 						"cloudy_positive": {
-							"display_name": "Fluffy clouds above my head",
-							"tooltip": "Overcast skies: perfect for lazing around on the porch."
+							"display_name": "Nuvens fofas acima da minha cabeça",
+							"tooltip": "Céu nublado: perfeito para descansar na varanda."
 						},
 						"sunny_negative": {
-							"display_name": "The sun's too bright",
-							"tooltip": "I have to shield my eyes just to walk outside. And don't get me started on the sunburn!"
+							"display_name": "O Sol está muito claro",
+							"tooltip": "Eu tenho que proteger meus olhos só para andar lá fora. Sem contar as queimaduras do Sol."
 						},
 						"thunderstorm_positive": {
-							"display_name": "Stormy weather",
-							"tooltip": "It's so exciting to hear the thunder rolling in!"
+							"display_name": "Tempo tempestuoso",
+							"tooltip": "É tão emocionante ouvir o trovão rolar!"
 						},
 						"windy_negative": {
-							"display_name": "It's awful windy",
-							"tooltip": "The wind outside is biting at my skin."
+							"display_name": "Ventania",
+							"tooltip": "O vento lá fora está mordendo minha pele."
 						},
 						"blizzard_positive": {
-							"display_name": "That's what I call weather",
-							"tooltip": "That fierce blizzard outside makes this a day to remember!"
+							"display_name": "Isso é o que eu chamo de clima",
+							"tooltip": "Essa nevasca feroz faz com que seja um dia para recordar!"
 						},
 						"rain_positive": {
-							"display_name": "It's raining...",
-							"tooltip": "The drip, drip, drip of the raindrops is soothing all my worries!"
+							"display_name": "Está chovendo...",
+							"tooltip": "Os sons, os sons dos pingos de chuva está acalmando todas as minhas preocupações!"
 						},
 						"cloudy_negative": {
-							"display_name": "Gloomy clouds",
-							"tooltip": "I miss sunshine."
+							"display_name": "Nuvens sombrias",
+							"tooltip": "Tenho saudades do sol."
 						},
 						"rain_negative": {
-							"display_name": "Pesky drizzle",
-							"tooltip": "I almost stepped in a puddle. Now my feet are cold."
+							"display_name": "Chuviscando",
+							"tooltip": "Eu quase pisei em uma poça. Agora meus pés estão frios."
 						},
 						"lucky": {
 							"display_name": "Dia de sorte",
-							"tooltip": "Something good is going to happen today. I just feel it!"
+							"tooltip": "Algo de bom vai acontecer hoje. Eu sinto isso!"
 						},
 						"snow_negative": {
-							"display_name": "Cold, cold day",
-							"tooltip": "Brrr! I can barely feel my toes."
+							"display_name": "Dia frio",
+							"tooltip": "Brrr! Eu mal posso sentir meus dedos."
 						},
 						"sandstorm_negative": {
-							"display_name": "Sandstorm!",
-							"tooltip": "The sands are blowing across the landscape. Hide your poyos! Hide your sheep!"
+							"display_name": "Tempestade de areia!",
+							"tooltip": "As areias estão soprando pela paisagem. Esconda seus poyos! Esconda suas ovelhas!"
 						},
 						"snow_positive": {
-							"display_name": "It's snowing...",
-							"tooltip": "The world is hushed and white with snow."
+							"display_name": "Está nevando...",
+							"tooltip": "O mundo está abafado e branco de neve."
 						},
 						"foggy_negative": {
-							"display_name": "Spooky fog",
-							"tooltip": "Was that a goblin skulking around in the fog?"
+							"display_name": "Nevoeiro assustador",
+							"tooltip": "Isso era um goblin se esgueirando no nevoeiro?"
 						},
 						"foggy_positive": {
-							"display_name": "Mysterious mist",
-							"tooltip": "I wonder what wonders lie beneath that mysterious mist."
+							"display_name": "Névoa misteriosa",
+							"tooltip": "Eu me pergunto que maravilhas se encontram sob aquela névoa misteriosa."
 						},
 						"sandstorm_positive": {
-							"display_name": "tempestade de areia",
-							"tooltip": "The sands always come to test our fortitude... Mine is unwavering."
+							"display_name": "Tempestade de areia",
+							"tooltip": "As areias sempre vêm para testar nossa fortaleza ... A minha é inabalável."
 						},
 						"titanstorm_negative": {
-							"display_name": "The End Times are Upon Us!",
-							"tooltip": "The Titan's gonna destroy everything! Run for your lives!"
+							"display_name": "Os Tempos Finais Estão Sobre Nós!",
+							"tooltip": "O Titã vai destruir tudo! Corra por suas vidas!"
 						},
 						"titanstorm_positive": {
-							"display_name": "We Can Do This!",
-							"tooltip": "We're stronger than some 'Titan'! The evil monster's big, and it's scary, but I believe in our town!!"
+							"display_name": "Nós podemos fazer isso!",
+							"tooltip": "Somos mais fortes que alguns 'Titan'! O monstro do mal é grande, e é assustador, mas eu acredito na nossa cidade !!"
 						},
 						"sandy_negative": {
-							"display_name": "So Dusty!",
-							"tooltip": "Oh no... I have sand and dust everywere!  It's in my eyes!"
+							"display_name": "Todo empoeirado",
+							"tooltip": "Oh não ... Eu tenho areia e poeira em todos os lugares! Até nos meus olhos!"
 						},
 						"snow_sunny_positive": {
-							"display_name": "Winter wonderland!",
-							"tooltip": "The snow is glistening from the winter sun."
+							"display_name": "Maravilhas do inverno!",
+							"tooltip": "A neve está brilhando do sol de inverno."
 						},
 						"rain_sunny_positive": {
-							"display_name": "It's raining...",
-							"tooltip": "The sun is shimmering through the rain drops..."
+							"display_name": "Está chovendo...",
+							"tooltip": "O sol está brilhando através das gotas de chuva ..."
 						},
 						"snow_sunny_negative": {
-							"display_name": "Too cold and bright!",
-							"tooltip": "I am freezing! And the sunshine reflecting off the snow too is bright!"
+							"display_name": "Muito frio e brilhante!",
+							"tooltip": "Eu estou congelando! E o sol refletindo na neve também é brilhante!"
 						},
 						"rain_sunny_negative": {
-							"display_name": "Ruined day.",
-							"tooltip": "This would have been a perfect day, if not for the rain."
+							"display_name": "Dia arruinado.",
+							"tooltip": "Este seria um dia perfeito, se não fosse pela chuva."
 						},
 						"sandy_positive": {
-							"display_name": "Dusty",
-							"tooltip": "The dust storms remind us of the cycle of life..."
+							"display_name": "Poeira",
+							"tooltip": "As tempestades de poeira nos lembram do ciclo da vida ..."
 						}
 					}
 				},
@@ -9212,12 +9212,12 @@
 				"kitties": {
 					"values": {
 						"koda": {
-							"display_name": "Pleasant Haunting",
-							"tooltip": "An adorable little ghost kitten wanted some scritches!"
+							"display_name": "Assombração Agradável",
+							"tooltip": "Um gatinho fantasma adorável queria alguns scritches!"
 						},
 						"jacko": {
-							"display_name": "Ferocious Ghost",
-							"tooltip": "I saw a spectral panther!  It protected the town from danger!"
+							"display_name": "Fantasma Feroz",
+							"tooltip": "Eu vi uma pantera espectral! Protegia a cidade do perigo!"
 						}
 					}
 				}
